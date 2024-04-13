@@ -5,6 +5,6 @@ int main(int argc, char const *argv[])
     printf ("Dime tu nombre: ");
     scanf ("%s", nombre);
 
-    Printf ("Hola, %s", nombre);
+    printf ("Hola, %s", nombre);
     return 0;
 }
